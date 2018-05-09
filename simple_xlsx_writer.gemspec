@@ -7,7 +7,7 @@ require 'rubygems'
 
 Gem::Specification.new do |s|
   s.name = "simple_xlsx_writer"
-  s.version = "0.5.3.undev"
+  s.version = "0.5.4"
   s.authors = ["Dee Zsombor", "Victor Bilyk"]
   s.email = ["zsombor@primalgrasp.com", "victorbilyk@gmail.com"]
   s.homepage = "http://simplxlsxwriter.rubyforge.org"
