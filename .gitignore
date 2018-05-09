@@ -11,3 +11,5 @@ notes.txt
 *.\#*
 *.rbc
 pkg
+Gemfile.lock
+test.xlsx
